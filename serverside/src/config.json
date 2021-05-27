@@ -1,0 +1,6 @@
+{
+    "db": {
+        "connstr": "mongodb+srv://m001-student:m001-mongodb-basics@sandbox.q5ht7.mongodb.net/bookshelf?retryWrites=true&w=majority"
+    },
+    "secret": "12345697890"
+}
